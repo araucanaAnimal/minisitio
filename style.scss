@@ -90,6 +90,10 @@ h5 span{
 }
 
 
+.modalAraucana {
+    width: 60%;
+}
+
 #univerH5 {
   font-family: AvenirLTStd-Medium;
   font-size: 32px; 
@@ -545,6 +549,17 @@ ul.menu.headermenu {
   color: $header-textcolor;
   text-transform: uppercase;
   
+}
+
+.modalAraucana {
+    width: 100%;
+    max-height: 100%;
+}
+
+.modalAraucana iframe {
+    width: 90%;
+    height: 90%;
+
 }
 
 }
