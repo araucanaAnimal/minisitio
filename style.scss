@@ -29,7 +29,7 @@ $topmenupadding-top: 40px;
 $topmenupadding-right: 40px;
 
 $orbit-bulletcolor: #7D7B7C;
-$orbit-bulletcoloractive: white;
+$orbit-bulletcoloractive: #004A98;
 
 
 @font-face {
@@ -181,9 +181,6 @@ h2 {
     text-align: center;
     padding-top: 20px;
 
-}
-nav.orbit-bullets {
-    margin-top: -40px;
 }
 
 div#example-menu {

@@ -36,7 +36,7 @@ $(document).ready(function (){
             }
         }
     });
-     $('#clickBtnMenu').click(function(){ 
+    $('#clickBtnMenu').click(function(){ 
         if (flag)
         {
           $('.orbit').css("z-index", "-1");
@@ -47,13 +47,7 @@ $(document).ready(function (){
         }
     });
 
-    
-
-
-    
-
-    
-    
+  
 
 });
 
