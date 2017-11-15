@@ -2,6 +2,8 @@
 
 El proyecto es un sitio web que contiene información de los programas de educación para la Araucana
 
+![web](https://s3.amazonaws.com/animalfiles/git/minisitioPensionadosHome.png)
+
 ## Requerimientos
 Requiere installar apache2.
 
