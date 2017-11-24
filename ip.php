@@ -22,7 +22,7 @@
             </div>   
         </div>
 
-        <div class="row small-up-1 medium-up-3 " style="border-bottom-style: dashed; border-color: #0E3E71;">
+        <div class="row small-up-1 medium-up-2 large-up-3" style="border-bottom-style: dashed; border-color: #0E3E71;">
          
           <div class="small-12 medium-4 columns" id="colInstitute">
             <a target="_blank" href="http://tdigital.laaraucana.cl/beneficio/iacc-es" >
